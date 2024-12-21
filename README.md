@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremias.
 
-- ![Hi](https://komarev.com/ghpvc/?username=Fa1ki)
+![Hi](https://komarev.com/ghpvc/?username=Fa1ki)
 
 <!---
 KlavierFalk/KlavierFalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
