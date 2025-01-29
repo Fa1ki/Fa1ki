@@ -1,8 +1,8 @@
 ## 👋 Welcome to my GitHub page 
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Fa1ki&show_icons=true&bg_color=0d1117&text_color=9f9f9f&title_color=4493f8&border_color=3d444d&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fa1ki&layout=compact&hide=html,cmake&bg_color=0d1117&text_color=9f9f9f&title_color=4493f8&border_color=3d444d&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fa1ki&show_icons=true&bg_color=151b23&text_color=DEE1E5&title_color=4493f8&border_color=3d444d&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fa1ki&layout=compact&hide=html,cmake&bg_color=151b23&text_color=DEE1E5&title_color=4493f8&border_color=3d444d&hide_border=true" />
 </div> 
 
 
