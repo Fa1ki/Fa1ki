@@ -6,6 +6,7 @@ Some things I know better than others. 🤓
 
 <div>
     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,qt,java,kotlin,gradle,js,ts,html,css,vite,npm,git,md,svg,docker,github,windows,powershell,vscode,visualstudio,pycharm,idea,androidstudio&theme=dark&perline=10"/>
+    <!-- New When Qt Widgets is added <img src="https://skills-icons.vercel.app/api/icons?i=c,cpp,cmake,python,qt-widgets,java,kotlin,gradle,js,ts,html,css,vite,npm,git,md,svg,docker,github,windows,powershell,vscode,visualstudio,pycharm,intellijidea,androidstudio&theme=dark&perline=10"/> -->
 </div>
 
 ## Stats 📉
