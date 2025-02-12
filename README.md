@@ -11,8 +11,8 @@ Some things I know better than others. 🤓
 ## Stats 📉
 
 <div>  
-  <img src="https://github-readme-stats.vercel.app/api?username=Fa1ki&show_icons=true&bg_color=151b23&text_color=DEE1E5&title_color=4493f8&border_color=37434F&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fa1ki&layout=compact&hide=html,cmake&bg_color=151b23&text_color=DEE1E5&title_color=4493f8&border_color=37434F&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fa1ki&show_icons=true&bg_color=151b23&text_color=DEE1E5&title_color=4493f8&border_color=37434F&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fa1ki&layout=compact&hide=html,cmake&bg_color=151b23&text_color=DEE1E5&title_color=4493f8&border_color=37434F&hide_border=true" />
 </div> 
 
 
