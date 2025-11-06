@@ -9,7 +9,7 @@ Some things I know better than others. 🤓
     <!-- Old Icons <img src="https://skillicons.dev/icons?i=c,cpp,cmake,py,qt,java,kotlin,gradle,js,ts,html,css,vite,npm,git,md,svg,docker,github,windows,powershell,vscode,visualstudio,pycharm,idea,androidstudio&theme=dark&perline=10"/> -->
 </div>
 
-## Stats 📉
+## Stats 📈
 
 <div>  
   <!-- https://github.com/anuraghazra/github-readme-stats -->
