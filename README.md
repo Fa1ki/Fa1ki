@@ -2,7 +2,7 @@
 
 ## Skill Icons
 
-Some things I know better than others. 🤓
+-# Some things I know better than others. 🤓
 
 <div>
     <img src="https://skills-icons.vercel.app/api/icons?i=rust,slint,cpp,python,qtwidgets,kotlin,gradle,js,ts,html,css,vitepress,pnpm,docker,windows,debian,fedora,powershell,zed,vscode,intellijidea,androidstudio&perline=10"/>
