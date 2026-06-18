@@ -12,8 +12,8 @@ Some things I know better than others. 🤓
 ## Links
 
 <div>
-    <a href="https://gitlab.com/fa1ki"><img alt="gitlab-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/gitlab-singular_vector.svg"></a>
-    <a href="https://codeberg.org/fa1ki"><img alt="codeberg-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/codeberg-singular_vector.svg"></a>
+    <a href="https://gitlab.com/fa1ki"><img alt="gitlab-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/gitlab-singular_vector.svg"></a>
+    <a href="https://codeberg.org/fa1ki"><img alt="codeberg-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-singular_vector.svg"></a>
 </div>
 
 <!---
