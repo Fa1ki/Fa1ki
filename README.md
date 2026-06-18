@@ -9,6 +9,13 @@ Some things I know better than others. 🤓
     <!-- Old Icons <img src="https://skillicons.dev/icons?i=cpp,py,qt,kotlin,gradle,js,ts,html,css,vite,npm,git,svg,docker,github,windows,vscode,idea,androidstudio&theme=dark&perline=10"/> -->
 </div>
 
+## Links
+
+<div>
+    <a href="https://gitlab.com/fa1ki"><img alt="gitlab-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/gitlab-singular_vector.svg"></a>
+    <a href="https://codeberg.org/fa1ki"><img alt="codeberg-singular" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/codeberg-singular_vector.svg"></a>
+</div>
+
 <!---
 ## Stats 📈
 
