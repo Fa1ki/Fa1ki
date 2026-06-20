@@ -5,7 +5,7 @@
 Some things I know better than others. 🤓
 
 <div>
-    <img title="Rust, Slint, C++, Python, Qt Widgets, Kotlin, Gradle, Javascript, Typescript, HTML, CSS, VitePress, pnpm, Docker, Windows, Debian, Fedora, Zed, Visula Studio Code, Android Studio" src="https://skills-icons.vercel.app/api/icons?i=rust,slint,cpp,python,qtwidgets,kotlin,gradle,js,ts,html,css,vitepress,pnpm,docker,windows,debian,fedora,zed,vscode,androidstudio&perline=10"/>
+    <img title="Rust, Slint, C++, Python, Qt Widgets, Kotlin, Gradle, Javascript, Typescript, HTML, CSS, VitePress, pnpm, Docker, Windows, Debian, Fedora, Zed, Visula Studio Code, Kitty, Android Studio" src="https://skills-icons.vercel.app/api/icons?i=rust,slint,cpp,python,qtwidgets,kotlin,gradle,js,ts,html,css,vitepress,pnpm,docker,windows,debian,fedora,zed,vscode,kitty,androidstudio&perline=10"/>
     <!-- Old Icons <img src="https://skillicons.dev/icons?i=cpp,py,qt,kotlin,gradle,js,ts,html,css,vite,npm,git,svg,docker,github,windows,vscode,idea,androidstudio&theme=dark&perline=10"/> -->
 </div>
 
